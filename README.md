@@ -9,7 +9,7 @@ unstructured 2D triangular and 3D tetrahedral volume meshes using
 (level set) distance functions for describing geometries and domains.
 
 This repository is a Julia port of the consolidated
-[2D/3D DistMesh implementation for MATLAB and Octave](https://github.com/precisesimulation/distmesh).
+[2D/3D DistMesh implementation for MATLAB and Octave](https://github.com/precise-simulation/distmesh).
 
 <table align="center">
 <tr>
@@ -59,7 +59,7 @@ Usage
 -----
 
 To use the this mesh generation code, simply download the stand alone
-[distmesh](https://github.com/precisesimulation/distmesh-julia/blob/master/DistMesh.jl)
+[distmesh](https://github.com/precise-simulation/distmesh-julia/blob/master/DistMesh.jl)
 source code and run it in Julia (tested under Julia v6.2). The
 function syntax is as follows
 
@@ -111,7 +111,7 @@ Examples
 
 To automatically run the collection of basic mesh generation examples
 described below, type
-[distmesh_demo](https://github.com/precisesimulation/distmesh-julia/blob/master/distmesh_demo.jl)
+[distmesh_demo](https://github.com/precise-simulation/distmesh-julia/blob/master/distmesh_demo.jl)
 into the Julia command prompt from the directory where the _distmesh_
 files can be found.
 
@@ -232,7 +232,7 @@ References
 Alternative Implementations
 ---------------------------
 
-[4] [Consolidated 2D/3D DistMesh for MATLAB and Octave](https://github.com/precisesimulation/distmesh)
+[4] [Consolidated 2D/3D DistMesh for MATLAB and Octave](https://github.com/precise-simulation/distmesh)
 
 [5] [libDistMesh - A Simple Mesh Generator in C++](https://github.com/pgebhardt/libdistmesh)
 
